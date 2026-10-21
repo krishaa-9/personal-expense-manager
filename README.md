@@ -1,4 +1,4 @@
-# 💰 Personal expense manager
+# MoneyMate
 
 ![CI](https://github.com/krishaa-9/expense-manager/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
