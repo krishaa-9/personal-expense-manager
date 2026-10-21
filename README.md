@@ -1,4 +1,4 @@
-# 💰 Personal Expense Manager
+# 💰 Personal expense manager
 
 ![CI](https://github.com/krishaa-9/expense-manager/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
@@ -22,8 +22,8 @@ A command-line application to track personal expenses, set monthly category budg
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/expense-manager.git
-cd expense-manager
+git clone https://github.com/YOUR-USERNAME/personal-expense-manager.git
+cd personal-expense-manager
 python -m expense_manager --help
 ```
 
