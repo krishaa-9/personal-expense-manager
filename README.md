@@ -22,7 +22,7 @@ A command-line application to track personal expenses, set monthly category budg
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/personal-expense-manager.git
+git clone https://github.com/krishaa-9/personal-expense-manager.git
 cd personal-expense-manager
 python -m expense_manager --help
 ```

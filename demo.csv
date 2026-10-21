@@ -1,0 +1,5 @@
+id,date,category,amount,description
+3,2026-10-01,transport,800.00,Monthly bus pass
+4,2026-10-01,rent,1500.00,
+1,2026-10-02,food,450.00,Groceries
+2,2026-10-09,food,120.00,Dinner out
